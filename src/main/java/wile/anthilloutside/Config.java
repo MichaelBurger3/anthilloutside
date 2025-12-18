@@ -1,4 +1,4 @@
-package michaelburger3.anthilloutside;
+package wile.anthilloutside;
 
 import java.util.List;
 import java.util.Set;

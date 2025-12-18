@@ -1,4 +1,4 @@
-package michaelburger3.anthilloutside;
+package wile.anthilloutside;
 
 import org.slf4j.Logger;
 
